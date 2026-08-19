@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Meadow",
+  "name": "Meadow - A Nature Inspired Theme for Visual Studio Code",
   "type": "dark",
 
   "colors": {
