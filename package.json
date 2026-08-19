@@ -1,0 +1,22 @@
+{
+  "name": "meadow-theme",
+  "displayName": "Meadow",
+  "description": "A calm botanical dark theme for focused development.",
+  "version": "0.0.1",
+  "publisher": "eowyn-cloud",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Meadow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/meadow-color-theme.json"
+      }
+    ]
+  }
+}
