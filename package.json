@@ -3,16 +3,8 @@
   "displayName": "Meadow",
   "description": "A calm botanical dark theme for focused development.",
   "version": "0.1.0",
-  "publisher": "EowynC",
+  "publisher": "eowyn-cloud",
   "pricing": "Free",
-  "homepage": "https://EowynC.github.io/meadow/",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/EowynC/meadow-theme.git"
-  },
-  "bugs": {
-    "url": "https://github.com/EowynC/meadow-theme/issues"
-  },
   "engines": {
     "vscode": "^1.80.0"
   },
