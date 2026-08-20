@@ -5,6 +5,11 @@
   "version": "0.3.0",
   "publisher": "eowyn-cloud",
   "pricing": "Free",
+  "icon": "images/meadow-icon.png",
+  "galleryBanner": {
+    "color": "#20251F",
+    "theme": "dark"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/EowynC/meadow-theme.git"
@@ -14,6 +19,18 @@
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "color theme",
+    "dark theme",
+    "botanical",
+    "nature",
+    "green",
+    "csharp",
+    "razor",
+    "blazor",
+    "dotnet"
   ],
   "contributes": {
     "themes": [
